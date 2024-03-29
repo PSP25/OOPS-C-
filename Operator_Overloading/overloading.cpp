@@ -45,6 +45,7 @@ int main(){
     complex c2(3,4);
 
     //addition by calling function
+    //give one complex number to the add function of other complex number
     complex ans=c1.addition(c2);
     ans.display();
 
